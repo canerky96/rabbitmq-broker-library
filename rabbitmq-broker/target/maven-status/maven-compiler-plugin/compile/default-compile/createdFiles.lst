@@ -1,0 +1,8 @@
+product\model\Category.class
+product\model\Product.class
+product\service\ProducerService.class
+annotation\EnableRabbitMQLib.class
+config\ProducerConfiguration.class
+product\service\ProducerServiceImpl.class
+config\RabbitMQConfiguration.class
+config\RabbitMQLib.class
